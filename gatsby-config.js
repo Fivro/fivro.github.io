@@ -1,7 +1,5 @@
 module.exports = {
-  module.exports = {
-    pathPrefix: "/docs"
-  },
+  pathPrefix: "/docs",
   siteMetadata: {
     title: "fivro.github.io",
   },
